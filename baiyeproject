@@ -1,0 +1,66 @@
+<head>
+    <link href="https://cdn.staticfile.org/twitter-bootstrap/5.1.1/css/bootstrap.min.css" rel="stylesheet">
+  </head>
+  <style>
+    
+    #example1 {
+        background-image: url(https://assets.retiehe.com/blur/reichenbach-falls.jpg);
+        background-position: right bottom, left top;
+        background-repeat: no-repeat, repeat;
+        padding: 15px;
+    }
+    </style>
+<body>
+    <div id="example1"
+         style="
+         background-color: #f1f1f1;
+         text-align: center;
+         padding: 80px;">
+   <h1 class="text-white" style="text-align:center">这便是白夜</h1>
+   <p class="text-white" style="text-align:center" >一切都是最初的样子</p>
+    <p style="text-align:center" class="text-white">__________________________________________________________________________________________________________________________</p>
+   <p style="text-align:center" class="text-white" >写在最初：</p>
+   <p style="text-align:center" class="text-white">这是酚醛最早的一个愿望，现在它得以在一个最伟大的环境中降生。关于它，我有说不完的故事。但现在，我只想向你讲述它，讲述这个我精心设计的故事</p>
+   <p style="text-align:center" class="text-white">现在，序幕就要揭开，白夜的时代即将到来</p>
+   <p style="text-align:center" class="text-white">____________________________________________________________________________________________</p>
+   </div><div style="
+   text-align: center; 
+   padding: 80px;">
+   <p class="text-white" style="text-align: center"><img src="https://s1.ax1x.com/2022/10/27/xhnRdx.jpg"alt="白夜封面" width="360" height="525"></p>
+   <h3>主线</h3>
+   <p>序章——同归世界线</p>
+   <p>第一章——雨落潮歌</p>    
+   <p>第二章——玖皇会</p>
+   <p>第三章——泪水之城</p>  
+   <p>终章——终焉之地</p> 
+   <h3>个人向</h3>
+    <p>Iris <p>
+    <p> Ash</p>
+    <p> Mus</p>   
+    <p> Arc</p>   
+    <p> Magef02</p>
+    <p> 雩</p>   
+    <h5>额外内容——世末歌者</h5>
+</div>
+<div style="
+text-align: center; ">
+    <h1>序章</h1>
+    <h1>雨落潮歌</h1>
+    <p> “小姑娘，早上好！”</p>
+    <p>Iris睁开双眼,看到他床边站着一位表情严肃的大叔，柔和的阳光从狭小的窗户透过来照在他身上，这使得Iris看清了他的脸，这位大叔的穿着更加严肃，他甚至还带了一双白手套，Iris很疑惑，她根本不知道面前的人是谁，但她像条件反射似的说出了一句：“早上好，Mus叔。”被她称作Mus的大叔很满意似的走到了门前。回头看了她一眼，说：：“过一会儿Ash姐会来看看你，多说些他爱听的。这将关乎你能否留在我们乐队。”Mus用它带着白手套的左手在额头上划过一道优美的弧线。“我看好你，努力加油。哦，有句话忘说了，以后能不能不用“叔”这个字来称呼我了，这样很显老。”但他看到iris似乎一脸冷漠的样子，他尴尬的笑了笑，打开车门走了下去。
+        （对，那的确是车门。眼前的大叔竟然打开了车门，我是在一辆车上吗？一辆能够承载一间房的车辆？还有，Ash姐又是谁？）
+        Iris试图在脑海中寻找与之配对的记忆，但除了一阵偏头痛，她什么都没得到。他又想了想刚才和他交流的大叔，很奇怪，她只知道他的名字，除此之外一无所知。
+        正当Iris决定放空大脑时，车门被再一次打开，弯腰探头进来的是一位女性。她拥有火红的长发和金黄色的瞳孔。正当Iris对他的瞳孔颜色感到惊奇时。对方将Iris从头到脚打量了一遍，最后将目光停留在了旁边的吉他上。并说：“是很高级的木材制成的呢，我猜你一定是位弹吉他的好手，如此稚嫩的孩子，这样稚嫩的双手能弹出多么美妙的音乐呢？我很期待。做个自我介绍，我是这个乐队的主唱，你可以叫我Ash。”
+        眼前的女人把手伸了过来，Iris有些懵，但她还是把手伸了出去。
+        双手相握，Ash以一种严肃的声线宣布：你好，Iris，欢迎加入雨落潮歌乐队。</p>
+    
+   </div>
+</body>    
+
+
+
+<div style="
+     display: flex;
+     height: 100%;
+     overflow: auto;
+     transition: opacity .25s;"></div>
